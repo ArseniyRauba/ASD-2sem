@@ -1,0 +1,3 @@
+﻿  lab05.cpp
+D:\лабы\АиСД\lab05\lab05\lab05\lab05.cpp(38): warning C4715: check: значение возвращается не при всех путях выполнения
+  lab05.vcxproj -> D:\лабы\АиСД\lab05\lab05\x64\Debug\lab05.exe
