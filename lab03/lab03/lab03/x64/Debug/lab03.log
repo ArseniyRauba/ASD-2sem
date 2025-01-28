@@ -1,0 +1,10 @@
+﻿  lab03.cpp
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(36,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(38,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(50,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(61,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(75,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(85,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(100,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab03\lab03\lab03\lab03.cpp(117,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  lab03.vcxproj -> D:\лабы\АиСД\lab03\lab03\x64\Debug\lab03.exe
