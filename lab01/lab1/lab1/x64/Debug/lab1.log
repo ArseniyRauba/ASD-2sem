@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+D:\лабы\АиСД\lab01\lab1\lab1\lab1.cpp(51,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+D:\лабы\АиСД\lab01\lab1\lab1\lab1.cpp(60,11): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  lab1.vcxproj -> D:\лабы\АиСД\lab01\lab1\x64\Debug\lab1.exe
